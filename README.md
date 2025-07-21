@@ -1,54 +1,46 @@
-# Hi there, I'm Ankit Kumar! 👋
+# Hi there, I'm Abhay Singh Patel! 👋
 
 ## 🚀 About Me
-I am a passionate **Full Stack Developer** and **App Developer** with expertise in building scalable and efficient applications. I have experience working with modern web technologies and cloud platforms.
+I am a passionate **Full Stack Developer** and with expertise in building scalable and efficient applications. I have experience working with modern web technologies and cloud platforms.
 
 ## 🛠 Skills
 ![React.js](https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Backend-Express.js-lightgrey?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/Database-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/Language-PHP-purple?style=for-the-badge&logo=php)
 ![HTML](https://img.shields.io/badge/Markup-HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/Style-CSS-blue?style=for-the-badge&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/Style-TailwindCSS-cyan?style=for-the-badge&logo=tailwindcss)
-![NativeWind](https://img.shields.io/badge/Style-NativeWind-blueviolet?style=for-the-badge)
-![React Native](https://img.shields.io/badge/Mobile-React%20Native-purple?style=for-the-badge&logo=react)
-![Java](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
+![Bootstrap](https://img.shields.io/badge/Styling-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/State%20Management-Redux-purple?style=for-the-badge&logo=redux)
+![Zoho Catalyst](https://img.shields.io/badge/Serverless-Zoho%20Catalyst-ff6f00?style=for-the-badge&logo=zoho)
+![ZCQL](https://img.shields.io/badge/Database-ZCQL-blue?style=for-the-badge&logo=zoho)
+
+
 
 ## 💻 Tech Stack
 
 ### **Full Stack Web Development**
-- **Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap
+- **Frontend:** React.js,Next.js JavaScript, HTML, CSS, Tailwind CSS, Bootstrap
 - **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Databases:** MongoDB, MySQL, Zcql
 
-### **App Development**
-- **Mobile Frameworks:** React Native
-- **State Management:** Redux
-- **API Integration**
 
 ### **Cloud & DevOps**
-- **Cloud Platforms:** AWS, Zoho Catalyst
+- **Cloud Platforms:** Zoho Catalyst
 - **Version Control:** Git, GitHub
 
 
 ## 🔥 Projects & Experience
-- Developed and deployed **Production Data Management ERP Module** - [Private-Repo](https://github.com/ankit76350) | [Live Demo](https://dharaksha-dbs.online/)
-- Developed **NIT Sikkim Website** - [Private-Repo](https://github.com/ankit76350) | [Live Demo](https://nitsikkim.ac.in/)
-- Built **One School Website** - [Private-Repo](https://github.com/ankit76350) | [Live Demo](https://bbrschool.com/)
-- Developed and deployed **full-featured e-commerce platforms** - [GitHub]() | [Live Demo]()
-- Built **mobile applications** using React Native with API integrations - [GitHub](https://github.com/ankit76350/social-app) | [NA]()
+- Developed and deployed **AI-Mock Interviewer** - [Public-Repo](https://github.com/ankit76350) | [Live Demo](https://ai-interviewer-pi.vercel.app/sign-in?redirect_url=https%3A%2F%2Fai-interviewer-pi.vercel.app%2Fdashboard)
+- Developed **TravelNext a Booking Management Application** - [Public-Repo](https://github.com/Abhay0920/TravelNest) | [Live Demo]()
 - Worked on **Zoho Catalyst** for cloud-based solutions
-- Experience in **AWS cloud services** for scalable applications
 
 ## 📫 Connect with Me
-- **GitHub:** [https://github.com/ankit76350](https://github.com/ankit76350)
-- **LinkedIn:** [linkdin](https://www.linkedin.com/in/ankit-kumar-71bba026b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Portfolio:** [ankit.bbrschool.com](https://ankit.bbrschool.com/)
+- **GitHub:** [https://github.com/ankit76350](https://github.com/Abhay0920/)
+- **LinkedIn:** [linkdin](https://www.linkedin.com/in/abhay-singh-patel/)
 
 ⭐ **Feel free to explore my repositories and contribute!**

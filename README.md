@@ -35,7 +35,7 @@ I am a passionate **Full Stack Developer** and with expertise in building scalab
 
 
 ## 🔥 Projects & Experience
-- Developed and deployed **AI-Mock Interviewer** - [Public-Repo](https://github.com/ankit76350) | [Live Demo](https://ai-interviewer-pi.vercel.app/sign-in?redirect_url=https%3A%2F%2Fai-interviewer-pi.vercel.app%2Fdashboard)
+- Developed and deployed **AI-Mock Interviewer** - [Public-Repo](https://github.com/Abhay0920) | [Live Demo](https://ai-interviewer-pi.vercel.app/sign-in?redirect_url=https%3A%2F%2Fai-interviewer-pi.vercel.app%2Fdashboard)
 - Developed **TravelNext a Booking Management Application** - [Public-Repo](https://github.com/Abhay0920/TravelNest) | [Live Demo]()
 - Worked on **Zoho Catalyst** for cloud-based solutions
 

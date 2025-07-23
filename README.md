@@ -35,12 +35,12 @@ I am a passionate **Full Stack Developer** and with expertise in building scalab
 
 
 ## 🔥 Projects & Experience
-- Developed and deployed **AI-Mock Interviewer** - [Public-Repo](https://github.com/Abhay0920) | [Live Demo](https://ai-interviewer-pi.vercel.app/sign-in?redirect_url=https%3A%2F%2Fai-interviewer-pi.vercel.app%2Fdashboard)
+- Developed and deployed **AI-Mock Interviewer** - [Public-Repo](https://github.com/Abhay0920/AI-Interviewer) | [Live Demo](https://ai-interviewer-pi.vercel.app/sign-in?redirect_url=https%3A%2F%2Fai-interviewer-pi.vercel.app%2Fdashboard)
 - Developed **TravelNext a Booking Management Application** - [Public-Repo](https://github.com/Abhay0920/TravelNest) | [Live Demo]()
 - Worked on **Zoho Catalyst** for cloud-based solutions
 
 ## 📫 Connect with Me
-- **GitHub:** [https://github.com/ankit76350](https://github.com/Abhay0920/)
+- **GitHub:** [https://github.com/Abhay0920](https://github.com/Abhay0920/)
 - **LinkedIn:** [linkdin](https://www.linkedin.com/in/abhay-singh-patel/)
 
 ⭐ **Feel free to explore my repositories and contribute!**
